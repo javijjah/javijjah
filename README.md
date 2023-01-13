@@ -1,6 +1,6 @@
-# **Bienvenido a mi Github!**
+# **Bienvenido a mi Github!💫**
 
- ## Soy Javi
+ ## Soy Javi📺
 Estoy aprendiendo a desarrollar código aún, pero llevo mucho tiempo por estos lares, desde que era un niño
 ***
  ## Objetivo
@@ -12,12 +12,12 @@ Estamos aquí para desarrollar un mundo mejor, ya que:
 
 Los lenguajes de los que sé algo de momento son:
 
-- Java
-- HTML
-- CSS
-- SQL
+- Java☕
+- HTML📃
+- CSS🌈
+- SQL🏛️
 
 Mis lenguajes objetivo son:
 
-- JSON
-- Python
+- JSON📕
+- Python🐍
