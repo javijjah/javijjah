@@ -16,8 +16,10 @@ Los lenguajes de los que sé algo de momento son:
 - HTML📃
 - CSS🌈
 - SQL🏛️
+- JSON📕
+
 
 Mis lenguajes objetivo son:
 
-- JSON📕
 - Python🐍
+- C🔢
