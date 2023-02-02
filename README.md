@@ -1,7 +1,7 @@
 # **Bienvenido a mi Github!💫**
 
  ## Soy Javi📺
-Estoy aprendiendo a desarrollar código aún, pero llevo mucho tiempo por estos lares, desde que era un niño
+Estoy aprendiendo a desarrollar código aún, pero llevo mucho tiempo por estos lares, desde que era un niño, y eso me ayuda mucho a entender conceptos de programación que puede que a otras personas le resulten más complicados.
 ***
  ## Objetivo
 Aquí en _Github_ me gustaría aprender lenguajes un poco generales para poder colaborar en mis proyectos favoritos, como _mods_ para ciertos juegos o programas que me suelen facilitar mi día a día y cosas parecidas.
