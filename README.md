@@ -15,7 +15,7 @@ Los lenguajes de los que sé algo de momento son:
 - Java☕
 - HTML📃
 - CSS🌈
-- JavaScript
+- JavaScript🟨
 - SQL🏛️
 
 Mis lenguajes objetivo son:
