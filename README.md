@@ -15,11 +15,11 @@ Los lenguajes de los que sé algo de momento son:
 - Java☕
 - HTML📃
 - CSS🌈
+- JavaScript
 - SQL🏛️
-- JSON📕
-
 
 Mis lenguajes objetivo son:
 
 - Python🐍
 - C🔢
+- JSON📕
