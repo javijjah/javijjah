@@ -23,4 +23,3 @@ Mis lenguajes objetivo son:
 - C🔢
 - JSON📕
 - PHP
-- 
