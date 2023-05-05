@@ -20,6 +20,6 @@ Los lenguajes de los que sé algo de momento son:
 Mis lenguajes objetivo son:
 - JavaScript🟨
 - Python🐍
-- C🔢
+- C++🔢
 - JSON📕
-- PHP
+- PHP🐘
