@@ -1,23 +1,19 @@
-# **Bienvenido a mi Github!💫**
+# **Welcome to my Github!💫**
 
- ## Soy Javi📺
-Estoy aprendiendo a desarrollar código aún, pero llevo mucho tiempo por estos lares, desde que era un niño, y eso me ayuda mucho a entender conceptos de programación que puede que a otras personas le resulten más complicados.
+ ## I'm Javi📺
+I'm still learning how to develop code and software the right way, but I've been around here since I'm a kid. This helps me understand easier some programming concepts that may be more challenging to other people.
 ***
- ## Objetivo
-Aquí en _Github_ me gustaría aprender lenguajes un poco generales para poder colaborar en mis proyectos favoritos, como _mods_ para ciertos juegos o programas que me suelen facilitar mi día a día y cosas parecidas.
+ ## Objective
+Here on _Github_ I would like to learn general progaramming languages so I can contribute to my favourite projects, such as _mods_ for my favourite games or software that helps me on my daily routine.
 ***
-Estamos aquí para desarrollar un mundo mejor, ya que:
->"Los humanos no pueden crear algo de la nada. Los humanos no pueden conseguir nada sin agarrarse a algo. Después de todo, los humanos no son Dioses"
->>-Kaworu Nagisa
 
-Los lenguajes de los que sé algo de momento son:
-
+Languages I know:
 - Java☕
 - HTML📃
 - CSS🌈
 - SQL🏛️
 
-Mis lenguajes objetivo son:
+Languages I aim to learn:
 - JavaScript🟨
 - Python🐍
 - C++🔢
