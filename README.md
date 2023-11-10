@@ -5,6 +5,7 @@ I'm still learning how to develop code and software the right way, but I've been
 ***
  ## Objective
 Here on _Github_ I would like to learn general progaramming languages so I can contribute to my favourite projects, such as _mods_ for my favourite games or software that helps me on my daily routine.
+I aim to became a great game developer someday🎯👾
 ***
 
 Languages I know:
