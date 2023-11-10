@@ -9,6 +9,7 @@ Here on _Github_ I would like to learn general progaramming languages so I can c
 
 Languages I know:
 - Java☕
+- Kotlin📱
 - HTML📃
 - CSS🌈
 - SQL🏛️
