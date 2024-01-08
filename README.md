@@ -15,7 +15,7 @@ Languages I know:
 - CSS🌈
 - SQL🏛️
 - C# 👾
-
+- GDScript 🤖
 Languages I aim to learn:
 - JavaScript🟨
 - Python🐍
