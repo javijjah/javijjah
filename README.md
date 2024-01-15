@@ -14,12 +14,18 @@ Languages I know:
 - HTML📃
 - CSS🌈
 - SQL🏛️
-- C# 👾
+- C# 🛜
 - GDScript 🤖
+  
 Languages I aim to learn:
 - JavaScript🟨
 - Python🐍
 - C++🔢
 - JSON📕
 
-I've also worked widely with Photoshop📷, Sony Vegas🖥️, After Effects📹 and Figma✏️.
+Tools I've worked widely with:
+- Photoshop📷
+- Sony Vegas🖥️
+- After Effects📹
+- Figma✏️
+- Godot👾
