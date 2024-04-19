@@ -21,7 +21,6 @@ Languages I aim to learn:
 - JavaScript🟨
 - Python🐍
 - C++🔢
-- JSON📕
 
 Tools I've worked widely with:
 - Photoshop📷
