@@ -18,8 +18,6 @@ Languages I know:
 - GDScript 🤖
   
 Languages I aim to learn:
-- JavaScript🟨
-- Python🐍
 - C++🔢
 
 Tools I've worked widely with:
@@ -28,3 +26,4 @@ Tools I've worked widely with:
 - After Effects📹
 - Figma✏️
 - Godot👾
+- Aseprite
