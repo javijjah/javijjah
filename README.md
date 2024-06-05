@@ -26,4 +26,5 @@ Tools I've worked widely with:
 - After Effects📹
 - Figma✏️
 - Godot👾
-- Aseprite
+- Aseprite🎨
+- Unity🕹️
