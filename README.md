@@ -16,7 +16,8 @@ Languages I know:
 - SQL🏛️
 - C# 🛜
 - GDScript 🤖
-- Jetpack Compose Framework
+- Jetpack Compose (Framework)
+  
 Languages I aim to learn:
 - C++🔢
 
